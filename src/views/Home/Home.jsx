@@ -5,7 +5,7 @@ import BlogCard from "../../components/BlogCard/BlogCard"
 function Home() {
   return (
     <>
-      <h1>courses</h1>
+      <h1 className="heading">COURSES</h1>
     <div className="blogs-container">
     
     {
